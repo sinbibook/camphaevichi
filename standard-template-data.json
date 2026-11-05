@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-11-05T06:00:33.775456979Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-11-05T06:09:45.311048543Z",
     "templateType": "trip_a",
     "propertyId": "01a15853-f3e4-7d56-b073-0902627604e8",
     "homepageId": "01a1aa1f-1d20-7ab4-a9e3-e165842856b8"
@@ -22,12 +22,12 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인의 경우, 방문 전 펜션으로 미리 연락해 주시기 바랍니다.",
-    "usageGuide": "- 전 객실 금연\n- 애견 동반 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인의 경우, 방문 전 펜션으로 미리 연락해 주시기 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 47개월 이상~8세 미만\n- 유아: 47개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 인원추가 요금은 1박 기준 (추가인원 X 박수) 부과\n\n[공용바베큐]\n- 이용 객실: 전 객실\n - 이용 장소: 야외 테라스\n - 바베큐 형태: 숯불\n - 제공 구성:숯불\n - 이용 요금: 4인 기준 30,000원 (현장결제)\n - 이용 시간:제한없음\n - 우천 시: 이용 불가\n - 동계 시: 이용 불가\n - 강풍 시: 이용 불가\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 일회용 버너\n- 제공 구성:일회용 버너\n- 이용 요금:  4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간:제한없음\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가\n- 강풍 시: 이용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 주변여행지: 구미동 해변 차량 3분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 10대 이상\n- 위치: 펜션 내\n- 전기차 충전기 이용 불가",
+    "usageGuide": "- 전 객실 금연\n- 애견 동반 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인의 경우, 방문 전 펜션으로 미리 연락해 주시기 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 47개월 이상~8세 미만\n- 유아: 47개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n※ 인원추가 요금은 1박 기준 (추가인원 X 박수) 부과\n\n[공용바베큐]\n- 이용 객실: 전 객실\n - 이용 장소: 야외 테라스\n - 바베큐 형태: 숯불\n - 제공 구성:숯불\n - 이용 요금: 4인 기준 30,000원 (현장결제)\n - 이용 시간:제한없음\n - 우천 시: 이용 불가\n - 동계 시: 이용 불가\n - 강풍 시: 이용 불가\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 일회용 버너\n- 제공 구성:일회용 버너\n- 이용 요금:  4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간:제한없음\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가\n- 강풍 시: 이용 불가\n\n[스파]\n- 이용 객실: 전 객실\n- 이용 기간: 겨울 제외\n- 스파 형태: 스파\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 온도 조절: 가능\n- 입욕제 사용: 가능\n※ 신청 시간과 이용 시간 제한은 없습니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 주변여행지: 구미동 해변 차량 3분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 주차 대수: 10대 이상\n- 위치: 펜션 내\n- 전기차 충전기 이용 불가",
     "reservationGuide": "- 전 객실 금연\n- 애견 동반 불가",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "camphaevichi.kr",
-    "realtimeBookingId": "",
+    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13721",
     "ybsId": "",
     "tripPropertyId": "13721",
     "partnerType": "distributor_b",
@@ -103,11 +103,44 @@
         ]
       },
       {
+        "id": "01a1aa4b-f477-760f-86e8-f912261c4f56",
+        "name": "스파",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 이용 기간: 겨울 제외\n- 스파 형태: 스파\n- 수용 인원: 2명\n- 이용 요금: 무료\n- 온도 조절: 가능\n- 입욕제 사용: 가능\n※ 신청 시간과 이용 시간 제한은 없습니다.",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "01a1aa4f-8842-7322-b503-25868644074b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aa4b-f477-760f-86e8-f912261c4f56/main/1793858700819-614d3umt01.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1aa4f-8774-73f4-bad2-ed822cd6e42b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aa4b-f477-760f-86e8-f912261c4f56/main/1793858700824-50qw11incg.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1aa4f-8839-7f67-aeb5-9e53f90ac17e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aa4b-f477-760f-86e8-f912261c4f56/main/1793858700822-yk5dj9in0y.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "01a1667d-6365-7e63-aca3-9d35f28f9572",
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 이용 장소: 야외 테라스\n- 바베큐 형태: 일회용 버너\n- 제공 구성:일회용 버너\n- 이용 요금:  4인 기준 30,000원 (1박기준/현장결제)\n- 이용 시간:제한없음\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가\n- 강풍 시: 이용 불가",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "01a1aa35-817d-7e2f-9368-f091062f9c7e",
@@ -140,7 +173,7 @@
         "name": "공용바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n - 이용 장소: 야외 테라스\n - 바베큐 형태: 숯불\n - 제공 구성:숯불\n - 이용 요금: 4인 기준 30,000원 (현장결제)\n - 이용 시간:제한없음\n - 우천 시: 이용 불가\n - 동계 시: 이용 불가\n - 강풍 시: 이용 불가",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "01a1aa26-cde6-7f2d-b7e1-641211fe7088",
@@ -177,15 +210,48 @@
         ]
       },
       {
+        "id": "01a1aa50-c2d1-71cc-a526-773b52f91403",
+        "name": "잔디마당",
+        "description": "푸른 잔디와 오션뷰가 함께 펼쳐지는 편안한 공간에서\n햇살과 바람이 머무는 여유로운 하루를 즐겨보세요.",
+        "usageGuide": "",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "01a1aa50-d1d9-7ef1-94b2-0c51787d4a46",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aa50-c2d1-71cc-a526-773b52f91403/main/1793858785243-cnc7fn7v55.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1aa50-d175-77ee-b0a5-e45f29a30738",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aa50-c2d1-71cc-a526-773b52f91403/main/1793858785240-6owy7p6wsb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1aa50-d11e-7ed5-ad7a-0f8743b5e128",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aa50-c2d1-71cc-a526-773b52f91403/main/1793858785240-3muvoyn3a7.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "01a1667d-636a-713c-bbc1-978b594970eb",
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이 보유\n- 화재감지기 보유\n- 주변여행지: 구미동 해변 차량 3분",
-        "displayOrder": 3,
+        "displayOrder": 5,
         "images": [
           {
-            "id": "01a1aa27-c150-771a-8459-3366df3c858e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1667d-636a-713c-bbc1-978b594970eb/main/1793856094097-60i6a85qlb.jpg",
+            "id": "01a1aa4f-e0b5-712b-803e-8275d52d1d42",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1667d-636a-713c-bbc1-978b594970eb/main/1793858723733-gugbmrdthx.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -269,7 +335,7 @@
           {
             "id": "01a1a0a4-0790-79d5-baf8-7e3dc1103785",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/UoEYgrftXQeV.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -279,7 +345,7 @@
           {
             "id": "01a1a0a4-0790-7bbc-9d83-285040815c76",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/0qxkR7ejwyUm.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -287,7 +353,7 @@
           {
             "id": "01a1a0a4-0790-7bfb-a736-0a62797fcaa4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/b4fiHIG2RcC3.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -295,7 +361,7 @@
           {
             "id": "01a1a0a4-0790-7c1e-81aa-82f9bd58161b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/DUn8xi0IpVsF.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -303,7 +369,7 @@
           {
             "id": "01a1a0a4-0790-7c57-9052-535ab16ab83b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/xBSyYCRt4FX7.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -311,7 +377,7 @@
           {
             "id": "01a1a0a4-0790-7c94-ac2a-41c0bd1de3f6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/UMQiakvyV16C.jpg",
-            "sortOrder": 7,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -319,7 +385,7 @@
           {
             "id": "01a1a0a4-0790-7d1b-a73b-15ff39d77a37",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/3lMY6LTScfAI.jpg",
-            "sortOrder": 8,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -327,7 +393,7 @@
           {
             "id": "01a1a0a4-0790-7d59-8494-4dc0e5a4dc46",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/qDBOV8PJFAx4.jpg",
-            "sortOrder": 9,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +401,7 @@
           {
             "id": "01a1a0a4-0790-7dc5-8b63-71c589713458",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/iLSVw5MFuY1t.jpg",
-            "sortOrder": 11,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +409,7 @@
           {
             "id": "01a1a0a4-0790-7e66-888f-22e6c1a6421f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/iW8IxHA6Z7r4.jpg",
-            "sortOrder": 12,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +417,7 @@
           {
             "id": "01a1a0a4-0790-7ed0-9868-41cb43d0d85c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/0R1tXdQD4vZw.jpg",
-            "sortOrder": 13,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +425,7 @@
           {
             "id": "01a1a0a4-0790-7f02-a974-401c048f52bd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/03/kqp4rnKs9PeM.jpg",
-            "sortOrder": 14,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1324,11 +1390,36 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "창문 너머 펼쳐지는 아름다운 힐링의 시간"
               },
               "closing": {
                 "title": "",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "01a1aa52-0f4d-7cd3-a7bd-1733f0203652",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1aa1f-1d20-7ab4-a9e3-e165842856b8/index_closing/1793858866468-6kubx44hhz.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a1aa52-0e72-7236-99b7-0c464a5869b4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1aa1f-1d20-7ab4-a9e3-e165842856b8/index_closing/1793858866470-61yyok7yui.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "01a1aa52-576c-7d11-8bff-a96db7cbb8a9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1aa1f-1d20-7ab4-a9e3-e165842856b8/index_closing/1793858885202-csdr4dkykj.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image",
                 "description": ""
