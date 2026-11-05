@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-11-05T06:26:21.340287422Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-11-05T06:44:04.974318150Z",
     "templateType": "trip_a",
     "propertyId": "01a15853-f3e4-7d56-b073-0902627604e8",
     "homepageId": "01a1aa1f-1d20-7ab4-a9e3-e165842856b8"
@@ -887,94 +887,6 @@
       "displayOrder": 3
     },
     {
-      "id": "01a166be-37cd-75df-9a6f-8da2cc551d70",
-      "name": "어울림",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n13평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,인덕션,식탁,무선인터넷",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": null,
-      "size": 62.81,
-      "baseOccupancy": 4,
-      "maxOccupancy": 7,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 1,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "바닥침구"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        },
-        {
-          "roomIndex": 2,
-          "roomKind": "ondol",
-          "bedCount": {
-            "double": 0,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 1
-          }
-        }
-      ],
-      "amenities": [
-        "에어컨",
-        "TV",
-        "무선인터넷",
-        "취사시설/도구",
-        "냉장고",
-        "금연",
-        "인덕션",
-        "남녀공용",
-        "욕실용품",
-        "식탁"
-      ],
-      "roomViews": [ ],
-      "roomStructures": [
-        "분리형"
-      ],
-      "status": "inactive",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "23:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "N",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 4
-    },
-    {
       "id": "01a166be-3ed0-74c6-bafa-baf5b8456001",
       "name": "속삭임",
       "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n13평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,인덕션,식탁,무선인터넷",
@@ -1525,7 +1437,7 @@
                     }
                   ],
                   "blockId": "9689df0f-24e3-4238-b6d5-1a2ffec5b77e",
-                  "description": ""
+                  "description": "섬 너머로 해가 기울면 바다 위에 긴 빛줄기가 드리웁니다.\n나란히 앉아 오래 바라보고 싶은 남해의 풍경을 바라보면서\n여유로운 시간을 보내보세요."
                 }
               ]
             }
@@ -2189,10 +2101,6 @@
               "category": "roomtype_exterior"
             }
           ]
-        },
-        {
-          "id": "01a166be-37cd-75df-9a6f-8da2cc551d70",
-          "images": [ ]
         },
         {
           "id": "01a166be-3ed0-74c6-bafa-baf5b8456001",
