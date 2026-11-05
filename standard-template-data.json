@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-11-05T06:25:38.911387808Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-11-05T06:26:21.340287422Z",
     "templateType": "trip_a",
     "propertyId": "01a15853-f3e4-7d56-b073-0902627604e8",
     "homepageId": "01a1aa1f-1d20-7ab4-a9e3-e165842856b8"
@@ -1493,7 +1493,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "그늘진 나무 아래로 바람이 지나고, 가지 사이로 파란 물빛이 비칩니다.\n마음에 드는 자리에 앉아 한낮의 남해를 천천히 바라보세요."
               },
               "about": [
                 {
