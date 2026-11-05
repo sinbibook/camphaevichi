@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-05T06:24:09.247407519Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-05T06:25:38.911387808Z",
     "templateType": "trip_a",
     "propertyId": "01a15853-f3e4-7d56-b073-0902627604e8",
     "homepageId": "01a1aa1f-1d20-7ab4-a9e3-e165842856b8"
@@ -1466,7 +1466,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "The Sea Beyond the Forest",
                 "images": [
                   {
                     "id": "01a1aa60-fb53-75a2-9d7d-30ce4d45e27b",
